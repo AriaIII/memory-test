@@ -14,3 +14,9 @@ Avant le début du jeu, les meilleurs temps s’affichent à l’écran.
 - Le script bdd-script.sh à lancer en ligne de commande permettra de créer la BDD et l'utilisateur qui lui est lié.
 - Le point d'entrée du jeu se fait par le fichier index.html dans localhost
 - technos : CSS avec Sass, Javascript et jQuery, HTML, PHP
+
+## Remarques
+
+Ça fonctionne sous Firefox mais il y a un petit bug sur la dernière image sur Chrome. Je n'ai pas réussi à le régler :/ , il y a aussi un petit problème sur le style de la progress bar qui est verte au lieu de rouge. Pas évident de styliser la balise html progress. A refaire, je ferai tout à la main mais le temps me manque.
+
+
